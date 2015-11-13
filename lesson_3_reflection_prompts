@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When you want to share the files with a lot of people, we can make use of the remote
+repository to do this. This is because it is stored on the server and can be accessed
+by all those who have access to it.
